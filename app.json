@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首  页",
+        "iconPath":"images/shouye.png",
+        "selectedIconPath":"images/shouye.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "选 大 学"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "挑 专 业"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "模拟填报"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "个人中心"
+      }
+    ],
+    "selectedColor": "#1AD4AD"
+  }
+}

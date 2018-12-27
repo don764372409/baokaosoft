@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class="main">
+  <view class='schoollib'>
+        <view class="title">院校库123</view>
+        <view class="flex-wrp" style="flex-direction:row;">
+          <view class="flex-item bc_blue">1</view>
+          <view class="flex-item bc_blue">2</view>
+          <view class="flex-item bc_blue">3</view>
+        </view>
+  </view>
+  <view class='majorlib'>
+  
+  </view>
+  <view class='vediolib'>
+  
+  </view>
+  <view class='testlib'>
+  
+  </view>
+  <view class='buttombtnbar'>
+
+  </view>
+</view>

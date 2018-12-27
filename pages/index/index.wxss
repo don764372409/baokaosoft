@@ -1,0 +1,49 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.bc_blue{
+  background-color: blue;
+}
+.main{
+  padding: 20px 20px;
+}
+.schoollib{
+  margin: 0;
+  padding: 0;
+}
+.schoollib > .title{
+    border-left: 3px green solid;
+    height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 20px;
+    text-indent: 20px;
+}
+.schoollib > .flex-wrp{
+  display: flex;
+  background-color: red;
+  height: 100px;
+  margin-top: 10px;
+}
+.schoollib > .flex-wrp > .flex-item{
+  height: 100px;
+  width: 33.3%;
+}
