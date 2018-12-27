@@ -1,0 +1,5 @@
+<scroll-view>
+  <block wx:for="{{majors}}">
+    <view>{{item}}</view>
+  </block>
+</scroll-view>

@@ -1,7 +1,10 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/info/info",
+    "pages/schooldetails/schooldetails",
+    "pages/major/list/list"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -18,11 +21,11 @@
         "selectedIconPath":"images/shouye.png"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/schooldetails/schooldetails",
         "text": "选 大 学"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/major/list/list",
         "text": "挑 专 业"
       },
       {

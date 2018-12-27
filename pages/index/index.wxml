@@ -9,7 +9,7 @@
         </view>
   </view>
   <view class='majorlib'>
-  
+    <button bindtap='toInfoPage'>个人中心</button>
   </view>
   <view class='vediolib'>
   

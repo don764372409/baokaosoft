@@ -57,4 +57,10 @@ Page({
       url: '../school/school'
     })
   },
+  toInfoPage:function(e){
+    console.log("跳转到个人中心");
+    wx.navigateTo({
+      url: '../info/info'
+    })
+  }
 })
